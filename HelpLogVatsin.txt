@@ -1,0 +1,3 @@
+04-06-20: Searched up how to set position of mouse https://forum.qt.io/topic/61832/restrict-mouse-cursor-movement/12
+
+04-06-20: Looked up how to differentiate between left and right click https://forum.qt.io/topic/61832/restrict-mouse-cursor-movement/12

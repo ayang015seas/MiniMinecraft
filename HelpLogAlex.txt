@@ -1,0 +1,8 @@
+Boid Algorithm Sources:
+
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+
+https://www.processing.org/examples/flocking.html
+
+https://www.youtube.com/watch?v=mhjuuHl6qHM
+
